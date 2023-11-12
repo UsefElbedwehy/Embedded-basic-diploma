@@ -1,0 +1,7 @@
+#ifndef		LM35_CONFIGURATION_H_
+#define		LM35_CONFIGURATION_H_
+
+#define		ADC_LM35_PORT		DIO_u8PORTA
+#define		ADC_LM35_PIN			DIO_u8PIN0
+
+#endif
